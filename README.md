@@ -338,3 +338,13 @@ Projekt demonstracyjny pokazujący wykorzystanie:
 * Ollama
 * SQLite
 * Agentów AI generujących SQL na podstawie języka naturalnego
+
+---
+
+# Przykładowe działanie
+
+<img width="739" height="570" alt="image" src="https://github.com/user-attachments/assets/8a6f62c9-fb24-452a-ae13-e93f9886bd91" />
+
+<img width="628" height="792" alt="testdzialania1" src="https://github.com/user-attachments/assets/50b9a93c-4db2-4757-8b3f-5f8e35faa61a" />
+
+
